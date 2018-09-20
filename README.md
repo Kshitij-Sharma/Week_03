@@ -24,3 +24,6 @@ Step 7: Dependencies
 2. **Challenge** Write a function that takes a list of strings, and using a reduce function concatenates them into one string and returns it.
 
 3. Submit the google form with a link to your repository.
+
+
+https://goo.gl/forms/Z0lvzoKv23whRgd53
